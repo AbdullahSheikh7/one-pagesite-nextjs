@@ -50,7 +50,7 @@ export default function Home() {
                 </li>
               </ul>
               <button className="btn btn-filled" id="download-cv">
-                Download CV
+                <a href="https://abdullah-salahuddin.vercel.app/cv/download" target="_blank" rel="noopener noreferrer">Download CV</a>
               </button>
             </div>
             <button
